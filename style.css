@@ -1,7 +1,5 @@
 canvas {
   text-align: center;
-  border: 2px solid gray;
   width: 100%;
   overflow: hidden;
-  background-color: lightblue;
 }
