@@ -6,7 +6,7 @@ ctx.clearRect(0, 0, canvas.width, canvas.height)
 keys = ["temporary"]
 dino_values = [[44,47],[60,47],[44,47],[44,47]]
 cactus_values = [[88,17,35]]
-cactus = [[1,300]]
+cactus = []
 highScore = 1234
 score = 0
 timer = 0
