@@ -135,7 +135,7 @@ setInterval(function(e){
   if (!(state == 4)) {
     score++
   }
-},70)
+},99)
 setInterval(function(e){
   if (!(state == 4)) {
     timer++
