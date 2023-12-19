@@ -161,7 +161,7 @@ setInterval(function(e){
     k++
   }
   check_cactus_coll()
-},100)
+},20)
 setInterval(function(e){
   if (state != 4)
   check_keys()
